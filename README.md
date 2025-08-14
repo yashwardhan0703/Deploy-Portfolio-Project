@@ -80,10 +80,13 @@ It simulates a scenario where a DevOps engineer takes an existing website source
 
 📸 Screenshots
 
-GitHub Actions Pipeline Run:
+- GitHub Actions Pipeline Run:
 
+![alt text](https://github.com/yashwardhan0703/Deploy-Portfolio-Project/blob/9d8b181cdc9b4760d28aba46e6b6f16adc33d497/GitHub%20Actions%20Pipeline.png)
 
-Deployed Portfolio Website:
+- Deployed Portfolio Website:
+
+![alt text](https://github.com/yashwardhan0703/Deploy-Portfolio-Project/blob/9d8b181cdc9b4760d28aba46e6b6f16adc33d497/Portfolio%20Website.png)
 
 ---
 
